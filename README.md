@@ -25,8 +25,8 @@ After we had extracted all the data from the Netflix and Disney+ csv files and p
 * Create new dataframe with desired columns
 * Combined the Disney+ and Netflix DataFrames into one dataframe
 * Below shows the before and after of the dataframes:
-	Before:
-	After:
+	Before:https://github.com/ryanmarshall80/Team_3_project_2/blob/main/screenshots/netflix_before.png
+	After:https://github.com/ryanmarshall80/Team_3_project_2/blob/main/screenshots/netflix_after.png
 
 ### Transformation of TMDB DataFrames
 We also had to transform the TMDB dataframe to match our needs. Below are the transformations performed on the data:
