@@ -1,5 +1,5 @@
-# Team_3_project_2
-Team 3 Technical Report
+# Movies ETL Project
+Technical Report
 Meena Rai, Ryan Marshall, Joshua Samuel
 
 # Objective
